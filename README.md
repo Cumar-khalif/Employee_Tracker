@@ -20,8 +20,10 @@ MySQL
 https://drive.google.com/file/d/1CGBSt_RbDdQoHA4gARwzPAHjya3h_2KG/view?usp=sharing
 
 ## For More awesome Apllication 
-here is my Github and heroku links.
+Here is my Github and heroku links.
+
 Github: https://github.com/Cumar-khalif
+
 Heroku: https://dashboard.heroku.com/apps
 
 
